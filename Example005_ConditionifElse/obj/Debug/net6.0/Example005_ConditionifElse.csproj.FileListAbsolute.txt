@@ -1,0 +1,15 @@
+/Users/ekaterinaromanenko/Desktop/Example/Example005_ConditionifElse/obj/Debug/net6.0/Example005_ConditionifElse.csproj.AssemblyReference.cache
+/Users/ekaterinaromanenko/Desktop/Example/Example005_ConditionifElse/obj/Debug/net6.0/Example005_ConditionifElse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinaromanenko/Desktop/Example/Example005_ConditionifElse/obj/Debug/net6.0/Example005_ConditionifElse.AssemblyInfoInputs.cache
+/Users/ekaterinaromanenko/Desktop/Example/Example005_ConditionifElse/obj/Debug/net6.0/Example005_ConditionifElse.AssemblyInfo.cs
+/Users/ekaterinaromanenko/Desktop/Example/Example005_ConditionifElse/obj/Debug/net6.0/Example005_ConditionifElse.csproj.CoreCompileInputs.cache
+/Users/ekaterinaromanenko/Desktop/Example/Example005_ConditionifElse/bin/Debug/net6.0/Example005_ConditionifElse
+/Users/ekaterinaromanenko/Desktop/Example/Example005_ConditionifElse/bin/Debug/net6.0/Example005_ConditionifElse.deps.json
+/Users/ekaterinaromanenko/Desktop/Example/Example005_ConditionifElse/bin/Debug/net6.0/Example005_ConditionifElse.runtimeconfig.json
+/Users/ekaterinaromanenko/Desktop/Example/Example005_ConditionifElse/bin/Debug/net6.0/Example005_ConditionifElse.dll
+/Users/ekaterinaromanenko/Desktop/Example/Example005_ConditionifElse/bin/Debug/net6.0/Example005_ConditionifElse.pdb
+/Users/ekaterinaromanenko/Desktop/Example/Example005_ConditionifElse/obj/Debug/net6.0/Example005_ConditionifElse.dll
+/Users/ekaterinaromanenko/Desktop/Example/Example005_ConditionifElse/obj/Debug/net6.0/refint/Example005_ConditionifElse.dll
+/Users/ekaterinaromanenko/Desktop/Example/Example005_ConditionifElse/obj/Debug/net6.0/Example005_ConditionifElse.pdb
+/Users/ekaterinaromanenko/Desktop/Example/Example005_ConditionifElse/obj/Debug/net6.0/Example005_ConditionifElse.genruntimeconfig.cache
+/Users/ekaterinaromanenko/Desktop/Example/Example005_ConditionifElse/obj/Debug/net6.0/ref/Example005_ConditionifElse.dll
